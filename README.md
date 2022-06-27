@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hira-husnain
+- 👋 Hi, I’m Hira Yaseen.
 - 👀 I’m interested in Computer vision, Machine Learning, Deep Learning.
 - 🌱 I’m currently learning Subspace clustering and Unsupervised learning.
 - 💞️ I’m looking to collaborate on deep neural networks learning for subspace clustering.
